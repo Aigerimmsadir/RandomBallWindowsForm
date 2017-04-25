@@ -1,0 +1,9 @@
+c:\users\айгерим\documents\visual studio 2015\Projects\randomball\randomball\bin\Debug\randomball.exe.config
+c:\users\айгерим\documents\visual studio 2015\Projects\randomball\randomball\bin\Debug\randomball.exe
+c:\users\айгерим\documents\visual studio 2015\Projects\randomball\randomball\bin\Debug\randomball.pdb
+c:\users\айгерим\documents\visual studio 2015\Projects\randomball\randomball\obj\Debug\randomball.csprojResolveAssemblyReference.cache
+c:\users\айгерим\documents\visual studio 2015\Projects\randomball\randomball\obj\Debug\randomball.Form1.resources
+c:\users\айгерим\documents\visual studio 2015\Projects\randomball\randomball\obj\Debug\randomball.Properties.Resources.resources
+c:\users\айгерим\documents\visual studio 2015\Projects\randomball\randomball\obj\Debug\randomball.csproj.GenerateResource.Cache
+c:\users\айгерим\documents\visual studio 2015\Projects\randomball\randomball\obj\Debug\randomball.exe
+c:\users\айгерим\documents\visual studio 2015\Projects\randomball\randomball\obj\Debug\randomball.pdb
